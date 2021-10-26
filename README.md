@@ -54,4 +54,3 @@ ___
 - Utilização do framework .NET, preferencialmente o mais recente.
 - Deploy, preferencialmente realizando o uso de CI/CD.
 - Aplicação de Boas práticas de codificação (SOLID, Design Patterns).
-- Aplicação de Domain Driven Design.
